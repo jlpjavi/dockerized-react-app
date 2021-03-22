@@ -13,5 +13,3 @@ For deploying to the docker container just type:
 docker-compose up -d
 
 
-I'd like to add test running automation, so stay tuned!
-
